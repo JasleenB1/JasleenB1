@@ -1,16 +1,85 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**JasleenB1/JasleenB1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://skillicons.dev/icons?i=react,python,fastapi,postgres,ai" />
 
-Here are some ideas to get you started:
+# Hi 👋 I'm Jasleen Bakshi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Computer Science (Honors) student at Western University  
+🚀 Software Engineer | AI • ML • Healthcare Enthusiast  
+
+I love building **intelligent, real-world applications**, especially at the intersection of  
+**AI, Machine Learning, and Healthcare technology** 🧠🏥
+
+</div>
+
+---
+
+## 🌟 About Me
+- 🎓 CS Honors student (Dean’s List), graduating **May 2026**
+- 🧪 10+ months of SWE internship experience building **full-stack & AI systems**
+- 🤖 Passionate about **AI-driven healthcare projects** that improve safety, efficiency, and outcomes
+- 🏆 Mentor & hackathon builder — I love turning ideas into working products
+
+---
+
+## 🧠 Interests
+- Artificial Intelligence & Machine Learning  
+- Healthcare technology & patient-safety systems  
+- Full-stack development & system design  
+- Hackathons, mentoring, and building meaningful products  
+
+---
+
+## 💻 Languages I’ve Worked With
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,c,html,css,sql,r,matlab" />
+</p>
+
+---
+
+## 🧩 Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,firebase" />
+</p>
+
+- LangChain
+- Pandas
+- NumPy
+- JavaFX
+
+---
+
+## 🛠 Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postgres,mysql,linux" />
+</p>
+
+- ChromaDB
+- Jira & Confluence
+- IntelliJ / Eclipse
+- Unix-based systems
+
+---
+
+## 🏥 What I’m Building Next
+🚑 A **healthcare-focused AI application** using:
+- Machine learning & intelligent data analysis  
+- Secure backend systems  
+- User-friendly interfaces for real-world clinical workflows  
+
+*(More coming soon 👀)*
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</div>
+
+---
+
+## 🌱 Outside of Code
+🏀 Basketball & 🎾 Tennis  
+🎹 Playing piano & 🎨 painting  
+🏎 Watching F1  
+📈 Investing & learning about markets
