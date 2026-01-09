@@ -32,7 +32,7 @@ I love building **intelligent, real-world applications**, especially at the inte
 
 ## 💻 Languages I’ve Worked With
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,c,html,css,sql,r,matlab" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,c,html,css,MySQL,r,matlab" />
 </p>
 
 ---
@@ -73,7 +73,7 @@ I love building **intelligent, real-world applications**, especially at the inte
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JasleenB1&show_icons=true&theme=tokyonight" />
 </div>
 
 ---
