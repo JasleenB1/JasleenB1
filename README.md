@@ -8,7 +8,7 @@
 🚀 Software Engineer | AI • ML • Healthcare Enthusiast  
 
 I love building **intelligent, real-world applications**, especially at the intersection of  
-**AI, Machine Learning, and Healthcare technology** 🧠🏥
+**AI, Machine Learning, Sports Analytics and Healthcare technology** 🧠🏥
 
 </div>
 
